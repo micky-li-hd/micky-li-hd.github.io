@@ -26,5 +26,5 @@ I am looking forward to pursuing a Ph.D in 2027. Please feel free to reach out i
 
 # 💻 Experiences
 
-- *2025.10* - Present, Research Intern, [StepFun](https://www.stepfun.com/), China
+- *2025.10* - Present, Research Intern, StepFun, China
 - *2025.03* - 2025.09, Research Intern, Microsoft Research Asia (MSRA), Beijing, China
