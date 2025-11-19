@@ -20,7 +20,9 @@ I am looking forward to pursuing a Ph.D in 2027. Please feel free to reach out i
 
 # 📝 Publications
 
-(Add your publications here)
+- [Benchmarking Unified Any-to-Any Interleaved Multimodal Learning](https://github.com) Yanlin Li, Minghui Guo, Kaiwen Zhang, Shize Zhang, Yiran Zhao, **Haodong Li**, Congyue Zhou, Weijie Zheng, Yushen Yan, Shengqiong Wu, Wei Ji, Lei Cui, Furu Wei, Hao Fei, Mong-Li Lee, Wynne Hsu
+
+- [DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation](https://github.com) Dongzhi Jiang, Renrui Zhang, **Haodong Li**, Zhuofan Zong, Ziyu Guo, Jun He, Claire Guo, Junyan Ye, Rongyao Fang, Weijia Li, Rui Liu, Hongsheng Li
 
 # 💻 Experiences
 
