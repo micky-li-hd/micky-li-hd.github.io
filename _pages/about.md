@@ -25,7 +25,7 @@ I am looking forward to pursuing a Ph.D in 2027. Please feel free to reach out i
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 20px;">
   <img src="/images/Draco.png" alt="DraCo" style="width: 200px; flex-shrink: 0;">
   <div>
-    [DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation](https://arxiv.org/abs/2512.05112) [[GitHub](https://github.com/CaraJ7/DraCo)] Dongzhi Jiang, Renrui Zhang, **Haodong Li**, Zhuofan Zong, Ziyu Guo, Jun He, Claire Guo, Junyan Ye, Rongyao Fang, Weijia Li, Rui Liu, Hongsheng Li
+    <a href="https://arxiv.org/abs/2512.05112"><strong>DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation</strong></a> [<a href="https://github.com/CaraJ7/DraCo">GitHub</a>] Dongzhi Jiang, Renrui Zhang, <strong>Haodong Li</strong>, Zhuofan Zong, Ziyu Guo, Jun He, Claire Guo, Junyan Ye, Rongyao Fang, Weijia Li, Rui Liu, Hongsheng Li
   </div>
 </div>
 
