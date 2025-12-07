@@ -26,9 +26,17 @@ ArXiv, 2025
 [<a href="https://arxiv.org">ArXiv</a>] [<a href="https://github.com">Code</a>]
 
 **DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation**
-Dongzhi Jiang, Renrui Zhang, **Haodong Li**, Zhuofan Zong, Ziyu Guo, Jun He, Claire Guo, Junyan Ye, Rongyao Fang, Weijia Li, Rui Liu, †Hongsheng Li
-ArXiv, 2025
-[<a href="https://arxiv.org/abs/2512.05112">ArXiv</a>] [<a href="https://github.com/CaraJ7/DraCo">Code</a>]
+
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/Draco.png" alt="DraCo" style="width: 200px; flex-shrink: 0;">
+  <div>
+    Dongzhi Jiang, Renrui Zhang, <strong>Haodong Li</strong>, Zhuofan Zong, Ziyu Guo, Jun He, Claire Guo, Junyan Ye, Rongyao Fang, Weijia Li, Rui Liu, †Hongsheng Li
+    <br>
+    ArXiv, 2025
+    <br>
+    [<a href="https://arxiv.org/abs/2512.05112">ArXiv</a>] [<a href="https://github.com/CaraJ7/DraCo">Code</a>]
+  </div>
+</div>
 
 # 💻 Experiences
 
