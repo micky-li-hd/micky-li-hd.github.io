@@ -21,9 +21,17 @@ I am looking forward to pursuing a Ph.D in 2027. Please feel free to reach out i
 # 📝 Publications
 
 **Benchmarking Unified Any-to-Any Interleaved Multimodal Learning**
-Yanlin Li, Minghui Guo, Kaiwen Zhang, Shize Zhang, Yiran Zhao, **Haodong Li**, Congyue Zhou, Weijie Zheng, Yushen Yan, Shengqiong Wu, Wei Ji, Lei Cui, †Furu Wei, Hao Fei, Mong-Li Lee, Wynne Hsu
-ArXiv, 2025
-[<a href="https://arxiv.org">ArXiv</a>] [<a href="https://github.com">Code</a>]
+
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/UniBench.png" alt="UniBench" style="width: 200px; flex-shrink: 0;">
+  <div>
+    Yanlin Li, Minghui Guo, Kaiwen Zhang, Shize Zhang, Yiran Zhao, <strong>Haodong Li</strong>, Congyue Zhou, Weijie Zheng, Yushen Yan, Shengqiong Wu, Wei Ji, Lei Cui, †Furu Wei, Hao Fei, Mong-Li Lee, Wynne Hsu
+    <br>
+    ArXiv, 2025
+    <br>
+    [<a href="https://arxiv.org">ArXiv</a>] [<a href="https://github.com">Code</a>]
+  </div>
+</div>
 
 **DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation**
 
