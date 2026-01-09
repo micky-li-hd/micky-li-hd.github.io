@@ -596,6 +596,18 @@ button {
   }
 }
 
+// Subtle fade transition for image changes
+.mfp-fade.mfp-ready .mfp-content {
+  opacity: 1;
+  transition: opacity 220ms ease-in-out;
+}
+.mfp-fade .mfp-content {
+  opacity: 0;
+}
+.mfp-fade.mfp-removing .mfp-content {
+  opacity: 0;
+}
+
 
 
 // Scale navigation arrows and reduce padding from sides
