@@ -18,6 +18,10 @@ My research interests focus on unified understanding and generation in MLLM. Ple
 
 I am looking forward to pursuing a Ph.D in 2027. Please feel free to reach out if you have opportunities!
 
+# 🗞️ News
+
+- 25.1 🎉 We release NextStep-1.1
+
 # 📝 Publications
 
 **Benchmarking Unified Any-to-Any Interleaved Multimodal Learning**
@@ -50,3 +54,44 @@ I am looking forward to pursuing a Ph.D in 2027. Please feel free to reach out i
 
 - *2025.10* - Present, Research Intern, [StepFun](https://www.stepfun.com/company), China
 - *2025.03* - 2025.09, Research Intern, Microsoft Research Asia (MSRA), Beijing, China
+
+## Gallery
+
+<style>
+.gallery-strip {
+  display: flex;
+  gap: 16px;
+  overflow: hidden;
+  width: 100%;
+}
+.gallery-track {
+  display: flex;
+  gap: 16px;
+  animation: gallery-scroll 30s linear infinite;
+}
+.gallery-strip:hover .gallery-track {
+  animation-play-state: paused;
+}
+.gallery-strip img {
+  height: 140px;
+  width: auto;
+  border-radius: 8px;
+}
+@keyframes gallery-scroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+</style>
+
+<div class="gallery-strip">
+  <div class="gallery-track">
+    <a href="/images/Draco.png" class="image-popup"><img src="/images/Draco.png" alt="DraCo"></a>
+    <a href="/images/Draco.png" class="image-popup"><img src="/images/Draco.png" alt="DraCo"></a>
+    <a href="/images/Draco.png" class="image-popup"><img src="/images/Draco.png" alt="DraCo"></a>
+    <a href="/images/Draco.png" class="image-popup"><img src="/images/Draco.png" alt="DraCo"></a>
+    <!-- duplicate for seamless loop using the same image -->
+    <a href="/images/Draco.png" class="image-popup"><img src="/images/Draco.png" alt="DraCo"></a>
+    <a href="/images/Draco.png" class="image-popup"><img src="/images/Draco.png" alt="DraCo"></a>
+  </div>
+  
+</div>
