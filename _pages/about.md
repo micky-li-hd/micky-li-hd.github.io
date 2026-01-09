@@ -74,13 +74,15 @@ You can zoom images by clicking 🤫
 .gallery-strip:hover .gallery-track {
   animation-play-state: paused;
 }
+.gallery-track a { flex: 0 0 auto; }
 .gallery-strip img {
-  height: 220px; /* taller to fit 1200x1200 */
+  height: auto; /* use natural ratio */
   width: auto;
+  max-height: 220px; /* cap size without distortion */
   border-radius: 8px;
 }
 @media (max-width: 768px) {
-  .gallery-strip img { height: 140px; }
+  .gallery-strip img { max-height: 140px; }
   .gallery-track { animation-duration: 30s; }
 }
 @keyframes gallery-scroll {
