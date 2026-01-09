@@ -57,7 +57,7 @@ I am looking forward to pursuing a Ph.D in 2027. Please feel free to reach out i
 
 ## 🖼️ Gallery
 
-You can zoom the images by clicking 🤔
+You can zoom images by clicking 🤫
 
 <style>
 .gallery-strip {
@@ -69,15 +69,19 @@ You can zoom the images by clicking 🤔
 .gallery-track {
   display: flex;
   gap: 16px;
-  animation: gallery-scroll 30s linear infinite;
+  animation: gallery-scroll 40s linear infinite; /* slower for smoother loop */
 }
 .gallery-strip:hover .gallery-track {
   animation-play-state: paused;
 }
 .gallery-strip img {
-  height: 140px;
+  height: 220px; /* taller to fit 1200x1200 */
   width: auto;
   border-radius: 8px;
+}
+@media (max-width: 768px) {
+  .gallery-strip img { height: 140px; }
+  .gallery-track { animation-duration: 30s; }
 }
 @keyframes gallery-scroll {
   0% { transform: translateX(0); }
