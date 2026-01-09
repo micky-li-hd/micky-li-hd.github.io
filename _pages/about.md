@@ -55,7 +55,9 @@ I am looking forward to pursuing a Ph.D in 2027. Please feel free to reach out i
 - *2025.10* - Present, Research Intern, [StepFun](https://www.stepfun.com/company), China
 - *2025.03* - 2025.09, Research Intern, Microsoft Research Asia (MSRA), Beijing, China
 
-## Gallery
+## 🖼️ Gallery
+
+You can zoom the images by clicking 🤔
 
 <style>
 .gallery-strip {
@@ -88,11 +90,13 @@ I am looking forward to pursuing a Ph.D in 2027. Please feel free to reach out i
     <a href="/images/msra.jpg" class="image-popup"><img src="/images/msra.jpg" alt="MSRA"></a>
     <a href="/images/nanjing.png" class="image-popup"><img src="/images/nanjing.png" alt="Nanjing"></a>
     <a href="/images/shichahai.jpg" class="image-popup"><img src="/images/shichahai.jpg" alt="Shichahai"></a>
+    <a href="/images/guangzhou.jpg" class="image-popup"><img src="/images/guangzhou.jpg" alt="Guangzhou"></a>
     <a href="/images/south_korea.jpg" class="image-popup"><img src="/images/south_korea.jpg" alt="South Korea"></a>
     <!-- duplicate set for seamless loop -->
     <a href="/images/msra.jpg" class="image-popup"><img src="/images/msra.jpg" alt="MSRA"></a>
     <a href="/images/nanjing.png" class="image-popup"><img src="/images/nanjing.png" alt="Nanjing"></a>
     <a href="/images/shichahai.jpg" class="image-popup"><img src="/images/shichahai.jpg" alt="Shichahai"></a>
+    <a href="/images/guangzhou.jpg" class="image-popup"><img src="/images/guangzhou.jpg" alt="Guangzhou"></a>
     <a href="/images/south_korea.jpg" class="image-popup"><img src="/images/south_korea.jpg" alt="South Korea"></a>
   </div>
   
