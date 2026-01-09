@@ -85,13 +85,15 @@ I am looking forward to pursuing a Ph.D in 2027. Please feel free to reach out i
 
 <div class="gallery-strip">
   <div class="gallery-track">
-    <a href="/images/Draco.png" class="image-popup"><img src="/images/Draco.png" alt="DraCo"></a>
-    <a href="/images/Draco.png" class="image-popup"><img src="/images/Draco.png" alt="DraCo"></a>
-    <a href="/images/Draco.png" class="image-popup"><img src="/images/Draco.png" alt="DraCo"></a>
-    <a href="/images/Draco.png" class="image-popup"><img src="/images/Draco.png" alt="DraCo"></a>
-    <!-- duplicate for seamless loop using the same image -->
-    <a href="/images/Draco.png" class="image-popup"><img src="/images/Draco.png" alt="DraCo"></a>
-    <a href="/images/Draco.png" class="image-popup"><img src="/images/Draco.png" alt="DraCo"></a>
+    <a href="/images/msra.jpg" class="image-popup"><img src="/images/msra.jpg" alt="MSRA"></a>
+    <a href="/images/nanjing.png" class="image-popup"><img src="/images/nanjing.png" alt="Nanjing"></a>
+    <a href="/images/shichahai.jpg" class="image-popup"><img src="/images/shichahai.jpg" alt="Shichahai"></a>
+    <a href="/images/south_korea.jpg" class="image-popup"><img src="/images/south_korea.jpg" alt="South Korea"></a>
+    <!-- duplicate set for seamless loop -->
+    <a href="/images/msra.jpg" class="image-popup"><img src="/images/msra.jpg" alt="MSRA"></a>
+    <a href="/images/nanjing.png" class="image-popup"><img src="/images/nanjing.png" alt="Nanjing"></a>
+    <a href="/images/shichahai.jpg" class="image-popup"><img src="/images/shichahai.jpg" alt="Shichahai"></a>
+    <a href="/images/south_korea.jpg" class="image-popup"><img src="/images/south_korea.jpg" alt="South Korea"></a>
   </div>
   
 </div>
