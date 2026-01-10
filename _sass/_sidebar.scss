@@ -87,7 +87,9 @@
   min-width: 80px;
   min-height: 80px;
   overflow: hidden;
-  border-radius: 50%;
+  // square frame for profile avatar
+  border-radius: 0;
+  border: 1px solid $border-color;
   flex-shrink: 0;
 
   @include breakpoint($large) {
@@ -104,12 +106,13 @@
     width: 100%;
     height: 100%;
     object-fit: cover;
-    border-radius: 50%;
+    // keep image square inside the frame
+    border-radius: 0;
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
-      border-radius: 50%;
+      border: 0; // border handled by container
+      border-radius: 0;
     }
   }
 }
