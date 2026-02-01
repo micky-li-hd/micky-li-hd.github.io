@@ -16,8 +16,6 @@ Currently, I am a Research Intern at StepFun, mentored by [Dr. Quan Sun](https:/
 
 My research interests focus on unified understanding and generation in MLLM. Please email me if you want to collaborate on academic research or have any questions.
 
-I am looking forward to pursuing a Ph.D in 2027. Please feel free to reach out if you have opportunities!
-
 # 🗞️ News
 
 - 25.1 🎉 We release NextStep-1.1
