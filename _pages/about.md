@@ -29,9 +29,9 @@ I am looking forward to pursuing a Ph.D in 2027. Please feel free to reach out i
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 20px;">
   <img src="/images/GEBench.pdf" alt="GEBench" style="width: 200px; flex-shrink: 0;">
   <div>
-    Haodong Li, Juanxi Tian, Jingwei Wu, Quan Sun, Guopeng Li, Huanyu Zhang, Yanlin Lai, Ruichuan An, Hongbo Peng, Yuhong Dai, Chenxi Li, Chunmei Qing, Zheng Ge, Xiangyu Zhang, Daxin Jiang
+    <strong>Haodong Li</strong>, Juanxi Tian, Jingwei Wu, Quan Sun, Guopeng Li, Huanyu Zhang, Yanlin Lai, Ruichuan An, Hongbo Peng, Yuhong Dai, Chenxi Li, Chunmei Qing, Zheng Ge, Xiangyu Zhang, Daxin Jiang
     <br>
-    ArXiv, 2025
+    ArXiv, 2026
     <br>
     [<a href="https://arxiv.org">ArXiv</a>] [<a href="https://github.com">Code</a>]
   </div>
