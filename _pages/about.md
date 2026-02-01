@@ -18,7 +18,8 @@ My research interests focus on unified understanding and generation in MLLM. Ple
 
 # 🗞️ News
 
-- 25.1 🎉 We release NextStep-1.1
+- 26.1 🎉 We release NextStep-1.1
+- 26.2 🎉 We release GEBench, GENIUS, VIBE (three benchmark for image generation)
 
 # 📝 Publications
 
