@@ -62,6 +62,19 @@ My research interests focus on unified understanding and generation in MLLM. Ple
   </div>
 </div>
 
+**VIBE: A Systematic Benchmark for Visual Instruction-Driven Image Editing**
+
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/VIBE.pdf" alt="VIBE" style="width: 200px; flex-shrink: 0;">
+  <div>
+    Huanyu Zhang, Xuehai Bai, Chengzu Li, Chen Liang, Haochen Tian, <strong>Haodong Li</strong>, Ruichuan An, Yifan Zhang, Anna Korhonen, Zhang Zhang, Liang Wang, Tieniu Tan
+    <br>
+    ArXiv, 2026
+    <br>
+    [<a href="https://arxiv.org/abs/2602.01851">ArXiv</a>] [<a href="https://github.com/hwanyu112/VIBE-Benchmark">Code</a>]
+  </div>
+</div>
+
 # 💻 Experiences
 
 <div style="display: flex; gap: 20px; align-items: center; margin-bottom: 15px;">
