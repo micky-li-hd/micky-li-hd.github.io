@@ -26,7 +26,7 @@ My research interests focus on unified understanding and generation in MLLM. Ple
 **GEBench: Benchmarking Image Generation Models as GUI Environments**
 
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/images/GEBench.pdf" alt="GEBench" style="width: 200px; flex-shrink: 0;">
+  <img src="/images/GEBench.png" alt="GEBench" style="width: 200px; flex-shrink: 0;">
   <div>
     <strong>Haodong Li</strong>, Juanxi Tian, Jingwei Wu, Quan Sun, Guopeng Li, Huanyu Zhang, Yanlin Lai, Ruichuan An, Hongbo Peng, Yuhong Dai, Chenxi Li, Chunmei Qing, Zheng Ge, Xiangyu Zhang, Daxin Jiang
     <br>
