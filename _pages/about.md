@@ -32,7 +32,7 @@ My research interests focus on unified understanding and generation in MLLM. Ple
     <br>
     ArXiv, 2026
     <br>
-    [<a href="https://arxiv.org">ArXiv</a>] [<a href="https://github.com">Code</a>]
+    [<a href="https://arxiv.org/pdf/2602.09007">ArXiv</a>] [<a href="https://github.com/stepfun-ai/GEBench">Code</a>]
   </div>
 </div>
 
