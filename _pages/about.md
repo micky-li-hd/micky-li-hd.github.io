@@ -18,6 +18,18 @@ My research interests focus on unified understanding and generation in MLLM. Ple
 
 # 📝 Publications
 
+**GENIUS: Generative Fluid Intelligence Evaluation Suite**
+
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 20px;">
+  <div>
+    Ruichuan An, Sihan Yang, Ziyu Guo, Wei Dai, Zijun Shen, <strong>Haodong Li</strong>, Renrui Zhang, Xinyu Wei, Guopeng Li, Wenshan Wu, Wentao Zhang
+    <br>
+    ArXiv, 2026
+    <br>
+    [<a href="https://github.com/arctanxarc/GENIUS?tab=readme-ov-file">ArXiv</a>] [<a href="https://github.com/arctanxarc/GENIUS?tab=readme-ov-file">Code</a>]
+  </div>
+</div>
+
 **GEBench: Benchmarking Image Generation Models as GUI Environments**
 
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 20px;">
