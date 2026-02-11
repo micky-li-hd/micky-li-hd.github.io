@@ -75,6 +75,54 @@ My research interests focus on unified understanding and generation in MLLM. Ple
   </div>
 </div>
 
+**Chain of Mindset: Reasoning with Adaptive Cognitive Modes**
+
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 20px;">
+  <div>
+    Tianyi Jiang, Arctanx An, Hengyi Feng, Naixin Zhai, <strong>Haodong Li</strong>, Xiaomin Yu, Jiahui Liu, Hanwen Du, Shuo Zhang, Zhi Yang, Jie Huang, Yuhua Li, Yongxin Ni, Huacan Wang, Ronghao Chen
+    <br>
+    ArXiv, 2026
+    <br>
+    [<a href="https://arxiv.org/pdf/2602.10063">ArXiv</a>] [<a href="https://github.com/QuantaAlpha/chain-of-mindset">Code</a>]
+  </div>
+</div>
+
+**M2A: Multimodal Memory Agent with Dual-Layer Hybrid Memory for Long-Term Personalized Interactions**
+
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 20px;">
+  <div>
+    Junyu Feng, Binxiao Xu, Jiayi Chen, Mengyu Dai, Cenyang Wu, <strong>Haodong Li</strong>, Bohan Zeng, Yunliu Xie, Hao Liang, Ming Lu, Wentao Zhang
+    <br>
+    ArXiv, 2026
+    <br>
+    [<a href="https://arxiv.org/pdf/2602.07624">ArXiv</a>] [<a href="https://github.com/Little-Fridge/M2A">Code</a>]
+  </div>
+</div>
+
+**AD-MIR: Bridging the Gap from Perception to Persuasion in Advertising Video Understanding via Structured Reasoning**
+
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 20px;">
+  <div>
+    Binxiao Xu, Junyu Feng, Xiaopeng Lin, <strong>Haodong Li</strong>, Zhiyuan Feng, Bohan Zeng, Shaolin Lu, Ming Lu, Qi She, Wentao Zhang
+    <br>
+    ArXiv, 2026
+    <br>
+    [<a href="https://arxiv.org/pdf/2602.07625">ArXiv</a>] [<a href="https://github.com/Little-Fridge/AD-MIR">Code</a>]
+  </div>
+</div>
+
+**R-Align: Enhancing Generative Reward Models through Rationale-Centric Meta-Judging**
+
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 20px;">
+  <div>
+    Yanlin Lai, Mitt Huang, Hangyu Guo, Xiangfeng Wang, <strong>Haodong Li</strong>, Shaoxiong Zhan, Liang Zhao, Chengyuan Yao, Yinmin Zhang, Qi Han, Chun Yuan, Zheng Ge, Xiangyu Zhang, Daxin Jiang
+    <br>
+    ArXiv, 2026
+    <br>
+    [<a href="https://arxiv.org/pdf/2602.06763">ArXiv</a>] [<a href="https://github.com/lyn22333/R-Align">Code</a>]
+  </div>
+</div>
+
 # 💻 Experiences
 
 <div style="display: flex; gap: 20px; align-items: center; margin-bottom: 15px;">
