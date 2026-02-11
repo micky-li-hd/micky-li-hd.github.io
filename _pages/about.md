@@ -78,6 +78,7 @@ My research interests focus on unified understanding and generation in MLLM. Ple
 **Chain of Mindset: Reasoning with Adaptive Cognitive Modes**
 
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/Chain_of_Mindset.png" alt="Chain of Mindset" style="width: 200px; flex-shrink: 0;">
   <div>
     Tianyi Jiang, Arctanx An, Hengyi Feng, Naixin Zhai, <strong>Haodong Li</strong>, Xiaomin Yu, Jiahui Liu, Hanwen Du, Shuo Zhang, Zhi Yang, Jie Huang, Yuhua Li, Yongxin Ni, Huacan Wang, Ronghao Chen
     <br>
@@ -90,6 +91,7 @@ My research interests focus on unified understanding and generation in MLLM. Ple
 **M2A: Multimodal Memory Agent with Dual-Layer Hybrid Memory for Long-Term Personalized Interactions**
 
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/M2A.png" alt="M2A" style="width: 200px; flex-shrink: 0;">
   <div>
     Junyu Feng, Binxiao Xu, Jiayi Chen, Mengyu Dai, Cenyang Wu, <strong>Haodong Li</strong>, Bohan Zeng, Yunliu Xie, Hao Liang, Ming Lu, Wentao Zhang
     <br>
@@ -102,6 +104,7 @@ My research interests focus on unified understanding and generation in MLLM. Ple
 **AD-MIR: Bridging the Gap from Perception to Persuasion in Advertising Video Understanding via Structured Reasoning**
 
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/AD-MIR.png" alt="AD-MIR" style="width: 200px; flex-shrink: 0;">
   <div>
     Binxiao Xu, Junyu Feng, Xiaopeng Lin, <strong>Haodong Li</strong>, Zhiyuan Feng, Bohan Zeng, Shaolin Lu, Ming Lu, Qi She, Wentao Zhang
     <br>
@@ -114,6 +117,7 @@ My research interests focus on unified understanding and generation in MLLM. Ple
 **R-Align: Enhancing Generative Reward Models through Rationale-Centric Meta-Judging**
 
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/R-Align.png" alt="R-Align" style="width: 200px; flex-shrink: 0;">
   <div>
     Yanlin Lai, Mitt Huang, Hangyu Guo, Xiangfeng Wang, <strong>Haodong Li</strong>, Shaoxiong Zhan, Liang Zhao, Chengyuan Yao, Yinmin Zhang, Qi Han, Chun Yuan, Zheng Ge, Xiangyu Zhang, Daxin Jiang
     <br>
