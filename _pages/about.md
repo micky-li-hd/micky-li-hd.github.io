@@ -12,7 +12,7 @@ redirect_from:
 
 # About Me
 
-Currently, I am a Research Intern at StepFun, mentored by [Dr. Quan Sun](https://github.com/Quan-Sun). Before that, I was a Research Intern at MSRA, mentored by [Dr. Dong Chen](http://dongchen.pro/).
+Currently, I am a Research Intern at StepFun, mentored by [Dr. Quan Sun](https://github.com/Quan-Sun). Before that, I was a Research Intern at MSRA, mentored by [Dr. Dong Chen](http://dongchen.pro/). I also closely work with [Jingwei Wu](https://scholar.google.com/citations?user=Gtj6VDYAAAAJ&hl=zh-CN), [Guopeng Li](https://liguopeng0923.github.io), [Ruichuan An](https://arctanxarc.github.io).
 
 My research interests focus on unified understanding and generation in MLLM. Please email me if you want to collaborate on academic research or have any questions.
 
