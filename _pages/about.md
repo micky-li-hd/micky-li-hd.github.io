@@ -16,11 +16,6 @@ Currently, I am a Research Intern at StepFun, mentored by [Dr. Quan Sun](https:/
 
 My research interests focus on unified understanding and generation in MLLM. Please email me if you want to collaborate on academic research or have any questions.
 
-# 🗞️ News
-
-- 26.2 🎉 We release GEBench, GENIUS, VIBE (three benchmark for image generation)
-- 26.1 🎉 We release NextStep-1.1
-
 # 📝 Publications
 
 **GEBench: Benchmarking Image Generation Models as GUI Environments**
