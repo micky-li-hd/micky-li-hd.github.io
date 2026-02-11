@@ -21,6 +21,7 @@ My research interests focus on unified understanding and generation in MLLM. Ple
 **GENIUS: Generative Fluid Intelligence Evaluation Suite**
 
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/GENIUS.png" alt="GENIUS" style="width: 200px; flex-shrink: 0;">
   <div>
     Ruichuan An, Sihan Yang, Ziyu Guo, Wei Dai, Zijun Shen, <strong>Haodong Li</strong>, Renrui Zhang, Xinyu Wei, Guopeng Li, Wenshan Wu, Wentao Zhang
     <br>
