@@ -31,7 +31,7 @@ My research interests focus on unified understanding and generation in MLLM. Ple
   </div>
 </div>
 
-**Benchmarking Unified Any-to-Any Interleaved Multimodal Learning**
+**UniBench: Benchmarking Unified Any-to-Any Interleaved Multimodal Learning**
 
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 20px;">
   <img src="/images/UniBench.png" alt="UniBench" style="width: 200px; flex-shrink: 0;">
