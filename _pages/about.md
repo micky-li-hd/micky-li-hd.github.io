@@ -38,7 +38,7 @@ My research interests focus on unified understanding and generation in MLLM. Ple
   <div>
     Yanlin Li, Minghui Guo, Kaiwen Zhang, Shize Zhang, Yiran Zhao, <strong>Haodong Li</strong>, Congyue Zhou, Weijie Zheng, Yushen Yan, Shengqiong Wu, Wei Ji, Lei Cui, †Furu Wei, Hao Fei, Mong-Li Lee, Wynne Hsu
     <br>
-    ArXiv, 2025
+    CVPR 2026
     <br>
     [<a href="https://arxiv.org">ArXiv</a>] [<a href="https://github.com">Code</a>]
   </div>
