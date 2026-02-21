@@ -64,7 +64,7 @@ My research interests focus on unified understanding and generation in MLLM. Ple
   <div>
     Dongzhi Jiang, Renrui Zhang, <strong>Haodong Li</strong>, Zhuofan Zong, Ziyu Guo, Jun He, Claire Guo, Junyan Ye, Rongyao Fang, Weijia Li, Rui Liu, †Hongsheng Li
     <br>
-    ArXiv, 2025
+    CVPR 2026 Findings
     <br>
     [<a href="https://arxiv.org/abs/2512.05112">ArXiv</a>] [<a href="https://github.com/CaraJ7/DraCo">Code</a>]
   </div>
