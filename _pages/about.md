@@ -53,7 +53,7 @@ My research interests focus on unified understanding and generation in MLLM. Ple
     <br>
     ArXiv, 2026
     <br>
-    [<a href="https://github.com/arctanxarc/GENIUS?tab=readme-ov-file">ArXiv</a>] [<a href="https://github.com/arctanxarc/GENIUS?tab=readme-ov-file">Code</a>]
+    [<a href="https://arxiv.org/abs/2602.11144">ArXiv</a>] [<a href="https://github.com/arctanxarc/GENIUS?tab=readme-ov-file">Code</a>]
   </div>
 </div>
 
@@ -195,7 +195,6 @@ You can zoom images by clicking 🤫
     <a href="/images/guangzhou.jpg" class="image-popup"><img src="/images/guangzhou.jpg" alt="Guangzhou"></a>
     <a href="/images/sichuang.jpg" class="image-popup"><img src="/images/sichuang.jpg" alt="Sichuang"></a>
     <a href="/images/south_korea.jpg" class="image-popup"><img src="/images/south_korea.jpg" alt="South Korea"></a>
-    <a href="/images/jiaolou_square.jpg" class="image-popup"><img src="/images/jiaolou_square.jpg" alt="Jiaolou"></a>
     <!-- duplicate set for seamless loop -->
     <a href="/images/msra.jpg" class="image-popup"><img src="/images/msra.jpg" alt="MSRA"></a>
     <a href="/images/nanjing.png" class="image-popup"><img src="/images/nanjing.png" alt="Nanjing"></a>
@@ -203,7 +202,6 @@ You can zoom images by clicking 🤫
     <a href="/images/guangzhou.jpg" class="image-popup"><img src="/images/guangzhou.jpg" alt="Guangzhou"></a>
     <a href="/images/sichuang.jpg" class="image-popup"><img src="/images/sichuang.jpg" alt="Sichuang"></a>
     <a href="/images/south_korea.jpg" class="image-popup"><img src="/images/south_korea.jpg" alt="South Korea"></a>
-    <a href="/images/jiaolou_square.jpg" class="image-popup"><img src="/images/jiaolou_square.jpg" alt="Jiaolou"></a>
   </div>
   
 </div>
