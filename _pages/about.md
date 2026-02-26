@@ -140,14 +140,14 @@ My research interests focus on unified understanding and generation in MLLM. Ple
 <div style="display: flex; gap: 20px; align-items: center; margin-bottom: 15px;">
   <img src="/images/StepFun.png" alt="StepFun" style="max-width: 60px; max-height: 60px; flex-shrink: 0; object-fit: contain;">
   <div>
-    <strong>2025.10 - 2026.2, Research Intern, StepFun, Unified Model Group</strong>
+    <strong>2026.3 - Present, Research Intern, StepFun, Foundation Model Group</strong>
   </div>
 </div>
 
 <div style="display: flex; gap: 20px; align-items: center; margin-bottom: 15px;">
   <img src="/images/StepFun.png" alt="StepFun" style="max-width: 60px; max-height: 60px; flex-shrink: 0; object-fit: contain;">
   <div>
-    <strong>2026.3 - Present, Research Intern, StepFun, Foundation Model Group</strong>
+    <strong>2025.10 - 2026.2, Research Intern, StepFun, Unified Model Group</strong>
   </div>
 </div>
 
