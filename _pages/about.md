@@ -31,6 +31,19 @@ My research interests focus on unified understanding and generation in MLLM. Ple
   </div>
 </div>
 
+**CoCo: Code as CoT for Text-to-Image Preview and Rare Concept Generation**
+
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/CoCo.jpg" alt="CoCo" style="width: 200px; flex-shrink: 0;">
+  <div>
+    <strong>Haodong Li</strong>, Chunmei Qing, Huanyu Zhang, Dongzhi Jiang, Yihang Zou, Hongbo Peng, Dingming Li, Yuhong Dai, ZePeng Lin, Juanxi Tian, Yi Zhou, Siqi Dai
+    <br>
+    ArXiv, 2026
+    <br>
+    [<a href="https://arxiv.org">ArXiv</a>]
+  </div>
+</div>
+
 **UniBench: Benchmarking Unified Any-to-Any Interleaved Multimodal Learning**
 
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 20px;">
