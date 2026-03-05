@@ -16,6 +16,10 @@ Currently, I am a Research Intern at StepFun, mentored by [Dr. Quan Sun](https:/
 
 My research interests focus on unified understanding and generation in MLLM. Please email me if you want to collaborate on academic research or have any questions.
 
+# 🔥 News
+
+- 2026.02: 🎉Two papers (UNIM and Draco) are accepted by CVPR 2026.
+
 # 📝 Publications
 
 **GEBench: Benchmarking Image Generation Models as GUI Environments**
@@ -44,7 +48,7 @@ My research interests focus on unified understanding and generation in MLLM. Ple
   </div>
 </div>
 
-**UniBench: Benchmarking Unified Any-to-Any Interleaved Multimodal Learning**
+**UNIM: A Unified Any-to-Any Interleaved Multimodal Benchmark**
 
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 20px;">
   <img src="/images/UniBench.png" alt="UniBench" style="width: 200px; flex-shrink: 0;">
